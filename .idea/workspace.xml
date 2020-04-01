@@ -1,9 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ac7f278-6c4b-4f41-b961-bf541a887262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Avatar/Avatar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Avatar/Avatar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/TextMessage/TextMessage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/TextMessage/TextMessage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZwUJMrEaFYIyTe1WPt3i2py7iU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/TextMessage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kvaso\WebstormProjects\untitled\src\Components\Avatar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kvaso\WebstormProjects\untitled\src\Components\TextMessage" />
+      <recent name="C:\Users\kvaso\WebstormProjects\untitled\src\Components\Message" />
+      <recent name="C:\Users\kvaso\WebstormProjects\untitled\src\Components" />
+      <recent name="C:\Users\kvaso\WebstormProjects\untitled\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ac7f278-6c4b-4f41-b961-bf541a887262" name="Default Changelist" comment="" />
+      <created>1585749576407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585749576407</updated>
+      <workItem from="1585749578072" duration="12620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="827" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585750364380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="827" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585750364380" />
+    <state x="724" y="0" key="CommitChangelistDialog2" timestamp="1585767253039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="724" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585767253039" />
+    <state x="877" y="179" key="FileChooserDialogImpl" timestamp="1585751810519">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="877" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585751810519" />
+    <state x="726" y="189" key="run.anything.popup" timestamp="1585756084758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="726" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585756084758" />
   </component>
 </project>
