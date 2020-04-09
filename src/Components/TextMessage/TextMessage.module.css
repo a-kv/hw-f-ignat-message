@@ -1,42 +1,40 @@
 TextMessage {
-    grid-area: t;
+    display: flex;
+
+
 }
 
-.back {
+
+.cloud {
+    position: absolute;
     background-color: darkblue;
     width: 200px;
-    min-height: 70px;
     border-radius: 10px;
     margin-top: 15px;
 
-    /*!*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);*!*/
 
 }
 
-.back:before {
-    content: ' ';
+.cloud:after {
     position: absolute;
-    width: 0;
-    height: 0;
-    left: 60px;
-    top: 144px;
-    border: 10px solid;
-    background-attachment: scroll;
-    border-color: transparent darkblue darkblue  transparent ;
+    content: ' ';
+    left: 8px;
+    border: 8px solid;
+    border-color: darkblue transparent transparent darkblue;
 }
 
 .textMessage {
+    /*font-size: 13px;*/
     color: white;
     line-height: 30px;
     margin-left: 5px;
     text-align: left;
-    width: 180px;
+    width: 190px;
     overflow: hidden;
     white-space: pre-wrap;
-    /*text-overflow:ellipsis*/
-
-
+    text-overflow: ellipsis
 }
+
 .time {
     color: white;
     text-align: end;
@@ -45,6 +43,7 @@ TextMessage {
 
 
 }
+
 .name {
     margin-top: 3px;
     margin-left: 5px;

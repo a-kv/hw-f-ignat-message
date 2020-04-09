@@ -6,15 +6,15 @@ const TextMessage = (props) => {
     return (
         <div className={classes.message}>
 
-            <div className={classes.back}>
+            <div className={classes.cloud}>
                 <div className={classes.name}>Kvasova Anna</div>
-                <div className={classes.textMessage}>I`m your worst nightmare! I`m your worst nightmare! I`m your worst
-                    nightmare!
+                <div className={classes.textMessage}>I`m your worst nightmare!... I`m your worst nightmare! I`m your
+                    worst nightmare!
                 </div>
                 <div className={classes.time}>{date.toLocaleTimeString('ru-RU', {hour: '2-digit', minute: '2-digit'})}
                 </div>
             </div>
-            </div>
+        </div>
 
     );
 }
